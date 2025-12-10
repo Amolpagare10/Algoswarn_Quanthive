@@ -1,0 +1,8 @@
+Blueshift Alert(55927)[2023-05-12 15:37:43.655252](INFO): Set up alert manager Blueshift Alert Manager[55927] with retry limits 20.
+Blueshift Alert(55927)[2023-05-12 15:37:55.718949](INFO): Starting backtest with finixitron_1.py
+Blueshift Alert(55927)[2023-05-12 15:37:55.720702](INFO): engine: 2.1.0, broker:nse-backtester, timezone:Asia/Calcutta, total sessions:247
+Blueshift Alert(55927)[2022-01-03 00:00:00+05:30](INFO): risk management: enabled exit cool-off period for 30 minutes.
+Blueshift Alert(55927)[2023-05-12 15:38:43.967901](INFO): backtest run complete, time taken 0:00:48.250000.
+Blueshift Alert(55927)[2023-05-12 15:38:43.969424](INFO): Simulated 247 sessions out of 247.
+Blueshift Alert(55927)[2023-05-12 15:38:43.969692](INFO): first open: 2022-01-03 00:00:00+05:30
+Blueshift Alert(55927)[2023-05-12 15:38:43.969831](INFO): last simulated: 2022-12-30 00:00:00+05:30
